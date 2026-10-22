@@ -42,8 +42,5 @@ Descripción en una o dos líneas, con resultado concreto si lo tiene.
 
 ---
 
-## 📫 Contacto
-
-- LinkedIn: [linkedin.com/in/erik-villanueva-merchor](https://www.linkedin.com/in/erik-villanueva-merchor-a226bb267/)
-- GitHub: [github.com/er1k0ps](https://github.com/er1k0ps)
-- Correo: erikvillanuevaa@gmail.com
+## 🌐 Redes:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/erikpqsi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erik-villanueva-merchor-a226bb267/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erikvillanuevaa@gmail.com) 
