@@ -32,7 +32,8 @@ Entrepreneurship · Cisco
 
 ## 📈 Actividad en GitHub
 
-![Streak](https://streak-stats.demolab.com/?user=er1k0ps&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=er1k0ps&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true)
+
 ---
 
 ## 🌐 Redes:
