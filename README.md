@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Estudiante de Ingeniería de Ciberseguridad, con experiencia en soporte técnico N1/N2 e infraestructura TI. Cuento con conocimientos en Linux, redes, virtualización, scripting y fundamentos de seguridad ofensiva. Me interesa la investigación de vulnerabilidades, el análisis de seguridad y las pruebas de penetración (pentesting). Actualmente, busco fortalecer mis habilidades técnicas mediante proyectos prácticos, laboratorios y aprendizaje continuo, con el objetivo de convertirme en Pentester y contribuir a identificar y corregir vulnerabilidades para mejorar la seguridad de sistemas y redes.
 
 
-## 🌐 Socials:
+## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/erikpqsi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erik-villanueva-merchor-a226bb267/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erikvillanuevaa@gmail.com) 
 
 # 💻 Tech Stack:
