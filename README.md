@@ -24,12 +24,12 @@ Infraestructura: administración de servicios y soporte TI N1/N2.
 ---
 
 # 🎓 Formación y certificaciones:
-Ingeniería de Ciberseguridad · SENATI 2024 – dic. 2026.
-Red Hat System Administration II (RH134), Ver. 8.2
-Introduction to Cybersecurity · Cisco
-IT Essentials: PC Hardware and Software · Cisco
-Entrepreneurship · Cisco
 
+Ingeniería de Ciberseguridad · SENATI 2024 – dic. 2026.  
+Red Hat System Administration II (RH134), Ver. 8.2  
+Introduction to Cybersecurity · Cisco  
+IT Essentials: PC Hardware and Software · Cisco  
+Entrepreneurship · Cisco
 ---
 
 ## 📈 Actividad en GitHub
