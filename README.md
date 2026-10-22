@@ -9,12 +9,13 @@ Estudiante de Ciberseguridad con experiencia en soporte técnico N1/N2 e infraes
 ---
 
 # 🛠️ Habilidades
-Seguridad: Análisis de vulnerabilidades, fundamentos de pentesting, Nmap, Fortinet.
-Sistemas: Windows 10/11, Linux (Ubuntu, Arch, Kali), Microsoft 365, gestión de respaldos y migración de datos.
-Redes: TCP/IP, DNS, DHCP, VLAN.
-Virtualización: VMware, VirtualBox, KVM / Virt-Manager.
-Scripting: Bash, PowerShell, Python.
-Infraestructura: administración de servicios y soporte TI N1/N2.
+
+- **Seguridad:** Análisis de vulnerabilidades, fundamentos de pentesting, Nmap, Fortinet.
+- **Sistemas:** Windows 10/11, Linux (Ubuntu, Arch, Kali), Microsoft 365, gestión de respaldos y migración de datos.
+- **Redes:** TCP/IP, DNS, DHCP, VLAN.
+- **Virtualización:** VMware, VirtualBox, KVM / Virt-Manager.
+- **Scripting:** Bash, PowerShell, Python.
+- **Infraestructura:** Administración de servicios y soporte TI N1/N2.
 
 ---
 
