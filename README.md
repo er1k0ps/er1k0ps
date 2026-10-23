@@ -1,40 +1,170 @@
-# Erik Villanueva Merchor
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-**Estudiante de Ingeniería de Ciberseguridad | Aspirante a Pentester**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff9c&height=220&section=header&text=Erik%20Villanueva%20Merchor&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Aspiring%20Pentester&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
 
-Estudiante de Ciberseguridad con experiencia en soporte técnico N1/N2 e infraestructura TI. Me enfoco en pentesting y análisis de vulnerabilidades, practicando en laboratorios virtualizados, Active Directory y plataformas como HackTheBox y TryHackMe. Documento mis procesos y hallazgos en GitHub.
+<a href="https://github.com/er1k0ps">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+er1k0ps;Estudiante+de+Ingenier%C3%ADa+de+Ciberseguridad;Aspirante+a+Pentester+%7C+Red+Team+Enthusiast;Laboratorios+%C2%B7+Active+Directory+%C2%B7+HackTheBox+%C2%B7+TryHackMe;%24+nmap+-sC+-sV+target+%E2%80%94+always+learning" alt="Typing SVG" />
+</a>
 
-> 🟢 Learning  | Cybersecurity • Linux • Networking • Pentesting.
+<br>
 
----
+![Status](https://img.shields.io/badge/status-learning-00ff9c?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/focus-pentesting-ff4d4d?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍_Lima-Perú-1f6feb?style=for-the-badge&labelColor=0d1117)
+![Views](https://komarev.com/ghpvc/?username=er1k0ps&label=Visitas&color=00ff9c&style=for-the-badge&labelColor=0d1117)
 
-# 🛠️ Habilidades
-
-- **Seguridad:** Análisis de vulnerabilidades, fundamentos de pentesting, Nmap, Fortinet.
-- **Sistemas:** Windows 10/11, Linux (Ubuntu, Arch, Kali), Microsoft 365, gestión de respaldos y migración de datos.
-- **Redes:** TCP/IP, DNS, DHCP, VLAN.
-- **Virtualización:** VMware, VirtualBox, KVM / Virt-Manager.
-- **Scripting:** Bash, PowerShell, Python.
-- **Infraestructura:** Administración de servicios y soporte TI N1/N2.
-
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+</div>
 
 ---
 
-# 🎓 Formación y certificaciones:
+## 👨‍💻 Sobre mí
 
-Ingeniería de Ciberseguridad · SENATI 2024 – dic. 2026.  
-Red Hat System Administration II (RH134), Ver. 8.2  
-Introduction to Cybersecurity · Cisco  
-IT Essentials: PC Hardware and Software · Cisco  
-Entrepreneurship · Cisco
+```bash
+erik@kali:~$ cat about.txt
+```
+
+Soy **estudiante de Ingeniería de Ciberseguridad** con experiencia previa en **soporte técnico N1/N2 e infraestructura TI**. Esa base me da una ventaja: entiendo cómo funcionan los sistemas desde adentro, y ahora aprendo a **evaluarlos desde la perspectiva de un atacante**.
+
+Mi enfoque está en **pentesting y análisis de vulnerabilidades**. Practico en laboratorios virtualizados, entornos de **Active Directory** y plataformas como **HackTheBox** y **TryHackMe**, y **documento cada proceso y hallazgo** aquí en GitHub.
+
+| | |
+|---|---|
+| 🎯 **Objetivo** | Convertirme en Pentester / Red Teamer |
+| 🔭 **Estudiando ahora** | Enumeración, explotación y movimiento lateral en Active Directory |
+| 🧪 **Practicando en** | Laboratorios propios (VMware / KVM), HackTheBox, TryHackMe |
+| 📝 **Documentando** | Writeups, notas técnicas y scripts de automatización |
+| 💬 **Pregúntame sobre** | Soporte TI, Linux, redes, virtualización y primeros pasos en ciberseguridad |
+
+---
+
+## 🛠️ Stack técnico
+
+### 🔐 Seguridad ofensiva y análisis
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+
+### 🐧 Sistemas operativos y ofimática
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10/11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
+
+### 🌐 Redes y virtualización
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM_/_Virt--Manager-FF6600?style=for-the-badge&logo=linuxcontainers&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+**Conceptos:** `TCP/IP` · `DNS` · `DHCP` · `VLAN` · `Active Directory` · `Respaldos y migración de datos`
+
+### 💻 Scripting y herramientas
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
+
+---
+
+## 🧭 Ruta de aprendizaje
+
+```text
+[██████████] Soporte TI N1/N2 e infraestructura        ✔ completado
+[████████░░] Linux, redes y virtualización             ▶ avanzado
+[██████░░░░] Fundamentos de pentesting                 ▶ en progreso
+[████░░░░░░] Active Directory (ataque y defensa)       ▶ en progreso
+[██░░░░░░░░] Certificación ofensiva (eJPT / PNPT / OSCP)  ⏳ siguiente meta
+```
+
+> 📌 *Ajusta las barras y la certificación objetivo según tu avance real.*
+
+---
+
+## 📂 Proyectos y laboratorios
+
+<!-- Reemplaza los repositorios por los tuyos. Fija (pin) los mejores en tu perfil. -->
+
+| Proyecto | Descripción | Tech |
+|---|---|---|
+| 🏠 **Home Lab AD** | Laboratorio de Active Directory para practicar enumeración y ataques | `VMware` `Windows Server` `Kali` |
+| 📝 **Writeups** | Documentación de máquinas de HackTheBox / TryHackMe | `Markdown` `Nmap` `Linux` |
+| ⚙️ **Scripts de automatización** | Utilidades en Bash / PowerShell / Python para soporte y reconocimiento | `Bash` `PowerShell` `Python` |
+
+<details>
+<summary>📌 <b>Cómo organizo mis writeups</b></summary>
+
+<br>
+
+Cada máquina sigue la misma metodología:
+
+1. **Reconocimiento** → `nmap -sC -sV -oA scan <IP>`
+2. **Enumeración** de servicios y superficie de ataque
+3. **Explotación** y acceso inicial
+4. **Escalada de privilegios** y post-explotación
+5. **Lecciones aprendidas** y mitigaciones recomendadas
+
+</details>
+
+---
+
+## 🎓 Formación y certificaciones
+
+| 🏫 Institución | 📜 Programa | 📅 Periodo |
+|---|---|---|
+| **SENATI** | Ingeniería de Ciberseguridad | 2024 – dic. 2026 |
+| **Red Hat** | System Administration II (RH134), v8.2 | Certificado |
+| **Cisco** | Introduction to Cybersecurity | Certificado |
+| **Cisco** | IT Essentials: PC Hardware and Software | Certificado |
+| **Cisco** | Entrepreneurship | Certificado |
+
 ---
 
 ## 📈 Actividad en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=er1k0ps&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=er1k0ps&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00ff9c&icon_color=00ff9c" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er1k0ps&layout=compact&theme=github_dark&hide_border=true&title_color=00ff9c&langs_count=8" alt="Top Languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=er1k0ps&theme=github-dark&hide_border=true&ring=00ff9c&fire=ff4d4d&currStreakLabel=00ff9c" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=er1k0ps&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+
+</div>
 
 ---
 
-## 🌐 Redes:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/erikpqsi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erik-villanueva-merchor-a226bb267/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erikvillanuevaa@gmail.com) 
+## 🤝 Conectemos
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-villanueva-merchor-a226bb267/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikvillanuevaa@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikpqsi/)
+<!-- Descomenta y agrega tus usuarios cuando los tengas:
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/TU_ID)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/TU_USUARIO)
+-->
+
+<br>
+
+```bash
+erik@kali:~$ echo "La seguridad no es un producto, es un proceso." && sleep ∞
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0a3d2e,100:0d1117&height=120&section=footer" alt="Footer" />
+
+</div>
