@@ -21,7 +21,7 @@
 ## 👨‍💻 Sobre mí
 
 ```bash
-erik@kali:~$ cat about.txt
+erik@kali:~$ cat idk.txt
 ```
 
 Soy **estudiante de Ingeniería de Ciberseguridad** con experiencia previa en **soporte técnico N1/N2 e infraestructura TI**. Esa base me da una ventaja: entiendo cómo funcionan los sistemas desde adentro, y ahora aprendo a **evaluarlos desde la perspectiva de un atacante**.
@@ -73,46 +73,7 @@ Mi enfoque está en **pentesting y análisis de vulnerabilidades**. Practico en 
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
----
 
-## 🧭 Ruta de aprendizaje
-
-```text
-[██████████] Soporte TI N1/N2 e infraestructura        ✔ completado
-[████████░░] Linux, redes y virtualización             ▶ avanzado
-[██████░░░░] Fundamentos de pentesting                 ▶ en progreso
-[████░░░░░░] Active Directory (ataque y defensa)       ▶ en progreso
-[██░░░░░░░░] Certificación ofensiva (eJPT / PNPT / OSCP)  ⏳ siguiente meta
-```
-
-> 📌 *Ajusta las barras y la certificación objetivo según tu avance real.*
-
----
-
-## 📂 Proyectos y laboratorios
-
-<!-- Reemplaza los repositorios por los tuyos. Fija (pin) los mejores en tu perfil. -->
-
-| Proyecto | Descripción | Tech |
-|---|---|---|
-| 🏠 **Home Lab AD** | Laboratorio de Active Directory para practicar enumeración y ataques | `VMware` `Windows Server` `Kali` |
-| 📝 **Writeups** | Documentación de máquinas de HackTheBox / TryHackMe | `Markdown` `Nmap` `Linux` |
-| ⚙️ **Scripts de automatización** | Utilidades en Bash / PowerShell / Python para soporte y reconocimiento | `Bash` `PowerShell` `Python` |
-
-<details>
-<summary>📌 <b>Cómo organizo mis writeups</b></summary>
-
-<br>
-
-Cada máquina sigue la misma metodología:
-
-1. **Reconocimiento** → `nmap -sC -sV -oA scan <IP>`
-2. **Enumeración** de servicios y superficie de ataque
-3. **Explotación** y acceso inicial
-4. **Escalada de privilegios** y post-explotación
-5. **Lecciones aprendidas** y mitigaciones recomendadas
-
-</details>
 
 ---
 
