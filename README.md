@@ -1,18 +1,18 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff9c&height=220&section=header&text=Erik%20Villanueva%20Merchor&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Aspiring%20Pentester&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2b,50:2E1A47,100:9D6BFF&height=220&section=header&text=Erik%20Villanueva%20Merchor&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Aspiring%20Pentester&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
 
 <a href="https://github.com/er1k0ps">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+er1k0ps;Estudiante+de+Ingenier%C3%ADa+de+Ciberseguridad;Aspirante+a+Pentester+%7C+Red+Team+Enthusiast;Laboratorios+%C2%B7+Active+Directory+%C2%B7+HackTheBox+%C2%B7+TryHackMe;%24+nmap+-sC+-sV+target+%E2%80%94+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C792FF&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+er1k0ps;Estudiante+de+Ingenier%C3%ADa+de+Ciberseguridad;Aspirante+a+Pentester+%7C+Red+Team+Enthusiast;Laboratorios+%C2%B7+Active+Directory+%C2%B7+HackTheBox+%C2%B7+TryHackMe;%24+nmap+-sC+-sV+target+%E2%80%94+always+learning" alt="Typing SVG" />
 </a>
 
 <br>
 
-![Status](https://img.shields.io/badge/status-learning-00ff9c?style=for-the-badge&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/focus-pentesting-ff4d4d?style=for-the-badge&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍_Lima-Perú-1f6feb?style=for-the-badge&labelColor=0d1117)
-![Views](https://komarev.com/ghpvc/?username=er1k0ps&label=Visitas&color=00ff9c&style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/status-learning-9D6BFF?style=for-the-badge&labelColor=2E1A47)
+![Focus](https://img.shields.io/badge/focus-pentesting-D946EF?style=for-the-badge&labelColor=2E1A47)
+![Location](https://img.shields.io/badge/📍_Lima-Perú-7C4DFF?style=for-the-badge&labelColor=2E1A47)
+![Views](https://komarev.com/ghpvc/?username=er1k0ps&label=Visitas&color=9D6BFF&style=for-the-badge&labelColor=2E1A47)
 
 </div>
 
@@ -21,7 +21,7 @@
 ## 👨‍💻 Sobre mí
 
 ```bash
-erik@kali:~$ cat idk.txt
+erik@kali:~$ cat about.txt
 ```
 
 Soy **estudiante de Ingeniería de Ciberseguridad** con experiencia previa en **soporte técnico N1/N2 e infraestructura TI**. Esa base me da una ventaja: entiendo cómo funcionan los sistemas desde adentro, y ahora aprendo a **evaluarlos desde la perspectiva de un atacante**.
@@ -73,7 +73,46 @@ Mi enfoque está en **pentesting y análisis de vulnerabilidades**. Practico en 
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
+---
 
+## 🧭 Ruta de aprendizaje
+
+```text
+[██████████] Soporte TI N1/N2 e infraestructura        ✔ completado
+[████████░░] Linux, redes y virtualización             ▶ avanzado
+[██████░░░░] Fundamentos de pentesting                 ▶ en progreso
+[████░░░░░░] Active Directory (ataque y defensa)       ▶ en progreso
+[██░░░░░░░░] Certificación ofensiva (eJPT / PNPT / OSCP)  ⏳ siguiente meta
+```
+
+> 📌 *Ajusta las barras y la certificación objetivo según tu avance real.*
+
+---
+
+## 📂 Proyectos y laboratorios
+
+<!-- Reemplaza los repositorios por los tuyos. Fija (pin) los mejores en tu perfil. -->
+
+| Proyecto | Descripción | Tech |
+|---|---|---|
+| 🏠 **Home Lab AD** | Laboratorio de Active Directory para practicar enumeración y ataques | `VMware` `Windows Server` `Kali` |
+| 📝 **Writeups** | Documentación de máquinas de HackTheBox / TryHackMe | `Markdown` `Nmap` `Linux` |
+| ⚙️ **Scripts de automatización** | Utilidades en Bash / PowerShell / Python para soporte y reconocimiento | `Bash` `PowerShell` `Python` |
+
+<details>
+<summary>📌 <b>Cómo organizo mis writeups</b></summary>
+
+<br>
+
+Cada máquina sigue la misma metodología:
+
+1. **Reconocimiento** → `nmap -sC -sV -oA scan <IP>`
+2. **Enumeración** de servicios y superficie de ataque
+3. **Explotación** y acceso inicial
+4. **Escalada de privilegios** y post-explotación
+5. **Lecciones aprendidas** y mitigaciones recomendadas
+
+</details>
 
 ---
 
@@ -93,16 +132,16 @@ Mi enfoque está en **pentesting y análisis de vulnerabilidades**. Practico en 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=er1k0ps&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00ff9c&icon_color=00ff9c" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er1k0ps&layout=compact&theme=github_dark&hide_border=true&title_color=00ff9c&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=er1k0ps&show_icons=true&bg_color=2E1A47&text_color=E9DDFF&title_color=C792FF&icon_color=C792FF&border_color=9D6BFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er1k0ps&layout=compact&bg_color=2E1A47&text_color=E9DDFF&title_color=C792FF&border_color=9D6BFF&langs_count=8" alt="Top Languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=er1k0ps&theme=github-dark&hide_border=true&ring=00ff9c&fire=ff4d4d&currStreakLabel=00ff9c" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=er1k0ps&background=2E1A47&stroke=9D6BFF&ring=C792FF&fire=FF79C6&currStreakNum=E9DDFF&sideNums=E9DDFF&currStreakLabel=C792FF&sideLabels=C792FF&dates=B8A5D6&border=9D6BFF" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=er1k0ps&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=er1k0ps&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -126,6 +165,6 @@ Mi enfoque está en **pentesting y análisis de vulnerabilidades**. Practico en 
 erik@kali:~$ echo "La seguridad no es un producto, es un proceso." && sleep ∞
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0a3d2e,100:0d1117&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D6BFF,50:2E1A47,100:1a0f2b&height=120&section=footer" alt="Footer" />
 
 </div>
