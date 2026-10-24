@@ -24,7 +24,7 @@
 erik@kali:~$ cat about.txt
 ```
 
-Soy **estudiante de Ingeniería de Ciberseguridad** con experiencia previa en **soporte técnico N1/N2 e infraestructura TI**. Esa base me da una ventaja: entiendo cómo funcionan los sistemas desde adentro, y ahora aprendo a **evaluarlos desde la perspectiva de un atacante**.
+Estudiante de Ingeniería de Ciberseguridad, con experiencia en soporte técnico N1/N2 e infraestructura TI. Cuento con conocimientos en Linux, redes, virtualización, scripting y fundamentos de seguridad ofensiva. Me interesa la investigación de vulnerabilidades, el análisis de seguridad y las pruebas de penetración (pentesting). Actualmente, busco fortalecer mis habilidades técnicas mediante proyectos prácticos, laboratorios y aprendizaje continuo, con el objetivo de convertirme en Pentester y contribuir a identificar y corregir vulnerabilidades para mejorar la seguridad de sistemas y redes.
 
 Mi enfoque está en **pentesting y análisis de vulnerabilidades**. Practico en laboratorios virtualizados, entornos de **Active Directory** y plataformas como **HackTheBox** y **TryHackMe**, y **documento cada proceso y hallazgo** aquí en GitHub.
 
