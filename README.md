@@ -50,7 +50,6 @@ Estudiante de Ingeniería de Ciberseguridad, con experiencia en soporte técnico
 ![KVM](https://img.shields.io/badge/KVM_/_Virt--Manager-FF6600?style=for-the-badge&logo=linuxcontainers&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-**Conceptos:** `TCP/IP` · `DNS` · `DHCP` · `VLAN` · `Active Directory` · `Respaldos y migración de datos`
 
 ### 💻 Scripting y herramientas
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
