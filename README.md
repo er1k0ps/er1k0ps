@@ -21,20 +21,11 @@
 ## 👨‍💻 Sobre mí
 
 ```bash
-erik@kali:~$ cat about.txt
+er1k0ps@nizz:~$ bat idk.txt
 ```
 
 Estudiante de Ingeniería de Ciberseguridad, con experiencia en soporte técnico N1/N2 e infraestructura TI. Cuento con conocimientos en Linux, redes, virtualización, scripting y fundamentos de seguridad ofensiva. Me interesa la investigación de vulnerabilidades, el análisis de seguridad y las pruebas de penetración (pentesting). Actualmente, busco fortalecer mis habilidades técnicas mediante proyectos prácticos, laboratorios y aprendizaje continuo, con el objetivo de convertirme en Pentester y contribuir a identificar y corregir vulnerabilidades para mejorar la seguridad de sistemas y redes.
 
-Mi enfoque está en **pentesting y análisis de vulnerabilidades**. Practico en laboratorios virtualizados, entornos de **Active Directory** y plataformas como **HackTheBox** y **TryHackMe**, y **documento cada proceso y hallazgo** aquí en GitHub.
-
-| | |
-|---|---|
-| 🎯 **Objetivo** | Convertirme en Pentester / Red Teamer |
-| 🔭 **Estudiando ahora** | Enumeración, explotación y movimiento lateral en Active Directory |
-| 🧪 **Practicando en** | Laboratorios propios (VMware / KVM), HackTheBox, TryHackMe |
-| 📝 **Documentando** | Writeups, notas técnicas y scripts de automatización |
-| 💬 **Pregúntame sobre** | Soporte TI, Linux, redes, virtualización y primeros pasos en ciberseguridad |
 
 ---
 
@@ -73,46 +64,6 @@ Mi enfoque está en **pentesting y análisis de vulnerabilidades**. Practico en 
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
----
-
-## 🧭 Ruta de aprendizaje
-
-```text
-[██████████] Soporte TI N1/N2 e infraestructura        ✔ completado
-[████████░░] Linux, redes y virtualización             ▶ avanzado
-[██████░░░░] Fundamentos de pentesting                 ▶ en progreso
-[████░░░░░░] Active Directory (ataque y defensa)       ▶ en progreso
-[██░░░░░░░░] Certificación ofensiva (eJPT / PNPT / OSCP)  ⏳ siguiente meta
-```
-
-> 📌 *Ajusta las barras y la certificación objetivo según tu avance real.*
-
----
-
-## 📂 Proyectos y laboratorios
-
-<!-- Reemplaza los repositorios por los tuyos. Fija (pin) los mejores en tu perfil. -->
-
-| Proyecto | Descripción | Tech |
-|---|---|---|
-| 🏠 **Home Lab AD** | Laboratorio de Active Directory para practicar enumeración y ataques | `VMware` `Windows Server` `Kali` |
-| 📝 **Writeups** | Documentación de máquinas de HackTheBox / TryHackMe | `Markdown` `Nmap` `Linux` |
-| ⚙️ **Scripts de automatización** | Utilidades en Bash / PowerShell / Python para soporte y reconocimiento | `Bash` `PowerShell` `Python` |
-
-<details>
-<summary>📌 <b>Cómo organizo mis writeups</b></summary>
-
-<br>
-
-Cada máquina sigue la misma metodología:
-
-1. **Reconocimiento** → `nmap -sC -sV -oA scan <IP>`
-2. **Enumeración** de servicios y superficie de ataque
-3. **Explotación** y acceso inicial
-4. **Escalada de privilegios** y post-explotación
-5. **Lecciones aprendidas** y mitigaciones recomendadas
-
-</details>
 
 ---
 
