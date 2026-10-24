@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2b,50:2E1A47,100:9D6BFF&height=220&section=header&text=Erik%20Villanueva%20Merchor&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Aspiring%20Pentester&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2b,50:2E1A47,100:9D6BFF&height=220&section=header&text=Erik%20Villanuevaaaa%20Merchor&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Aspiring%20Pentester&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
 
 <a href="https://github.com/er1k0ps">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C792FF&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+er1k0ps;Estudiante+de+Ingenier%C3%ADa+de+Ciberseguridad;Aspirante+a+Pentester+%7C+Red+Team+Enthusiast;Laboratorios+%C2%B7+Active+Directory+%C2%B7+HackTheBox+%C2%B7+TryHackMe;%24+nmap+-sC+-sV+target+%E2%80%94+always+learning" alt="Typing SVG" />
