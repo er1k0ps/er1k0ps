@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2b,50:2E1A47,100:9D6BFF&height=220&section=header&text=Erik%20Villanuevaaaa%20Merchor&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Aspiring%20Pentester&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2b,50:2E1A47,100:9D6BFF&height=220&section=header&text=Erik%20Villanueva%20Merchor&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Aspiring%20Pentester&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
 
 <a href="https://github.com/er1k0ps">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C792FF&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+er1k0ps;Estudiante+de+Ingenier%C3%ADa+de+Ciberseguridad;Aspirante+a+Pentester+%7C+Red+Team+Enthusiast;Laboratorios+%C2%B7+Active+Directory+%C2%B7+HackTheBox+%C2%B7+TryHackMe;%24+nmap+-sC+-sV+target+%E2%80%94+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C792FF&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+er1k0ps;Estudiante+de+Ingenier%C3%ADa+de+Ciberseguridad;Aspirante+a+Pentester+%7C+Red+Team;%24+nmap+-sC+-sV+target+%E2%80%94+bruh" alt="Typing SVG" />
 </a>
 
 <br>
@@ -20,11 +20,8 @@
 
 ## 👨‍💻 Sobre mí
 
-```bash
-er1k0ps@nizz:~$ bat idk.txt
-```
 
-Estudiante de Ingeniería de Ciberseguridad, con experiencia en soporte técnico N1/N2 e infraestructura TI. Cuento con conocimientos en Linux, redes, virtualización, scripting y fundamentos de seguridad ofensiva. Me interesa la investigación de vulnerabilidades, el análisis de seguridad y las pruebas de penetración (pentesting). Actualmente, busco fortalecer mis habilidades técnicas mediante proyectos prácticos, laboratorios y aprendizaje continuo, con el objetivo de convertirme en Pentester y contribuir a identificar y corregir vulnerabilidades para mejorar la seguridad de sistemas y redes.
+Estudiante de Ingeniería de Ciberseguridad, con experiencia en soporte técnico N1/N2 e infraestructura TI. Cuento con conocimientos en Linux, redes, virtualización, scripting y fundamentos de seguridad ofensiva. Me interesa la investigación de vulnerabilidades, el análisis de seguridad y las pruebas de penetración (pentesting). Actualmente, busco fortalecer mis habilidades técnicas mediante proyectos prácticos, laboratorios y aprendizaje continuo, con el objetivo de convertirme en Pentester y contribuir a identificar y corregir vulnerabilidades para mejorar la seguridad de sistemas.
 
 
 ---
@@ -113,7 +110,7 @@ Estudiante de Ingeniería de Ciberseguridad, con experiencia en soporte técnico
 <br>
 
 ```bash
-erik@kali:~$ echo "La seguridad no es un producto, es un proceso." && sleep ∞
+er1k0ps@nizz:~$ bat idk.txt
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D6BFF,50:2E1A47,100:1a0f2b&height=120&section=footer" alt="Footer" />
