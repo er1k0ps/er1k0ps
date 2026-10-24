@@ -77,9 +77,7 @@ Estudiante de Ingeniería de Ciberseguridad, con experiencia en soporte técnico
 ---
 
 ## 📈 Actividad en GitHub
-
-<div align="center"> <img height="170" src="https://streak-stats.demolab.com?user=er1k0ps&background=2E1A47&stroke=9D6BFF&ring=C792FF&fire=FF79C6&currStreakNum=E9DDFF&sideNums=E9DDFF&currStreakLabel=C792FF&sideLabels=C792FF&dates=B8A5D6&border=9D6BFF" alt="GitHub Streak" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er1k0ps&layout=compact&bg_color=2E1A47&text_color=E9DDFF&title_color=C792FF&border_color=9D6BFF&langs_count=8" alt="Top Languages" /> <br> <img height="170" src="https://github-readme-stats.vercel.app/api?username=er1k0ps&show_icons=true&bg_color=2E1A47&text_color=E9DDFF&title_color=C792FF&icon_color=C792FF&border_color=9D6BFF&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <br> <img src="https://github-profile-trophy.vercel.app/?username=er1k0ps&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" /> </div>
-
+<div align="center"> <img height="160" src="https://streak-stats.demolab.com?user=er1k0ps&background=2E1A47&stroke=9D6BFF&ring=C792FF&fire=FF79C6&currStreakNum=E9DDFF&sideNums=E9DDFF&currStreakLabel=C792FF&sideLabels=C792FF&dates=B8A5D6&border=9D6BFF" alt="GitHub Streak" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er1k0ps&layout=donut&card_width=495&bg_color=2E1A47&text_color=E9DDFF&title_color=C792FF&border_color=9D6BFF&langs_count=8" alt="Top Languages" /> <br> <img height="160" src="https://github-readme-stats.vercel.app/api?username=er1k0ps&show_icons=true&bg_color=2E1A47&text_color=E9DDFF&title_color=C792FF&icon_color=C792FF&border_color=9D6BFF&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </div>
 ---
 
 ## 🤝 Mis redes
